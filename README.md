@@ -12,13 +12,13 @@ Equipment
 
    -1 Ultrasonic sensor (for measuring the level of water)
    
-   -1 or more rain drop sensor (for making sure there are water leaks)
+   -1 or more rain drop sensors (for making sure there are water leaks)
    
    -2 or more Humidity sensors (for detecting humidity from the leak pipes)
    
    -2 Carbon Monoxide sensors (for detecting gas)
    
-2. microcintroller
+2. microcontroller
 
    -1 or more ESP8266
    
