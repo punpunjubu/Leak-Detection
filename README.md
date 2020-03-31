@@ -6,7 +6,7 @@ Detecting leaks in walls by using humidity sensors for key signs of water damage
 
 In reality if we spot the water leak we will stop pumping system and close a gate valve.
 
-Equipment
+Equipments
 
 1. sensors
 
